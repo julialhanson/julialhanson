@@ -31,11 +31,11 @@ Database Management: SQL, VBA
 Tools: Git, Jupyter, Google Colab
 
 ## Experience
-- Created a messaging website that could be used by multiple users at once
-- Tech Stack: HTML, CSS, Typescript
+- M3ssag1n8: Created a messaging website that could be used by multiple users at once
+  - Tech Stack: HTML, CSS, Typescript
 
-- Developed a task amnagement/calendar database for the Land Department at Scout Energy Partners
-- Tech Stack: Visual Basic for Applications, SQL
+- Land Database: Developed a task amnagement/calendar database for the Land Department at Scout Energy Partners
+  - Tech Stack: Visual Basic for Applications, SQL
 
 ## 📩 Contact Info
 Email: jlh28@rice.edu
