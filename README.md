@@ -22,6 +22,10 @@ My Break Through Tech group created a model that took in an interview transcript
 
 Tools Used: Python, SpaCy, NER, DateParser
 
+## Featured Repos
+- ![Break Through Tech ML Foundations](https://github.com/julialhanson/BTTAI-Work)
+- ![LegalDuel Chronology Model](https://github.com/heirynhr/legalduel-1a)
+
 ## 💻 Tech Stack
 - Languages: Python, Java, C, Golang
 - Data Science: Pandas, NumPy, SciKit-Learn, SpaCy
