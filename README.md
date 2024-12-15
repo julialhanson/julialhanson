@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[!(https://media.licdn.com/dms/image/v2/D5603AQFlXkB8eHz_Qw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730576500906?e=1740009600&v=beta&t=Wrdc2SQxsikctpT4NSBck6D_oNhtfHBgmncmj6OvrJo)]
 
 I am a computer science major at Rice University, specializing in Data Science and Machine Learning. I enjoy the creativity and unique problem solving needed to solve real-world problems using data science and machine learning. I aspire to work in the tech industry but also have experience working on projects in the legal industry, dance world, and oil and gas industry.
 
