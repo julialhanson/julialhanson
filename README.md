@@ -43,3 +43,7 @@ Tools Used: Python, SpaCy, NER, DateParser
 ## 📩 Contact Info
 Email: jlh28@rice.edu
 LinkedIn: julialhanson
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
