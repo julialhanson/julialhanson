@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Picture of me](file:///Users/juliahanson/Desktop/Screenshot%202024-12-15%20at%2012.05.58%E2%80%AFPM.png)
 ![Julia Hanson LinkedIn](https://www.google.com/imgres?q=julia%20hanson%20oracle&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5603AQFlXkB8eHz_Qw%2Fprofile-displayphoto-shrink_200_200%2Fprofile-displayphoto-shrink_200_200%2F0%2F1730576500906%3Fe%3D2147483647%26v%3Dbeta%26t%3Dh2SDoGCnSUlYP-HtdbuAhknoH2C59YxTDQ6IIfiAXuY&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjulialhanson&docid=4_PxQ8hfLyj0xM&tbnid=MIF6LRmDxF-WcM&vet=12ahUKEwjsmv6Ur6qKAxUHHNAFHYBqAKYQM3oECBUQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwjsmv6Ur6qKAxUHHNAFHYBqAKYQM3oECBUQAA)
 I am a computer science major at Rice University, specializing in Data Science and Machine Learning. I enjoy the creativity and unique problem solving needed to solve real-world problems using data science and machine learning. I aspire to work in the tech industry but also have experience working on projects in the legal industry, dance world, and oil and gas industry.
 
