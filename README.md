@@ -36,6 +36,9 @@ Tools Used: Python, SpaCy, NER, DateParser
 
 - Land Database: Developed a task amnagement/calendar database for the Land Department at Scout Energy Partners
   - Tech Stack: Visual Basic for Applications, SQL
+ 
+## Github Stats
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julialhanson)](https://github.com/julialhanson/github-readme-stats)
 
 ## 📩 Contact Info
 Email: jlh28@rice.edu
