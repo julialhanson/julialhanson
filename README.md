@@ -24,11 +24,11 @@ My Break Through Tech group created a model that took in an interview transcript
 Tools Used: Python, SpaCy, NER, DateParser
 
 ## 💻 Tech Stack
-Languages: Python, Java, C, Golang
-Data Science: Pandas, NumPy, SciKit-Learn, SpaCy
-Web Development: Typescript, CSS, HTML
-Database Management: SQL, VBA
-Tools: Git, Jupyter, Google Colab
+- Languages: Python, Java, C, Golang
+- Data Science: Pandas, NumPy, SciKit-Learn, SpaCy
+- Web Development: Typescript, CSS, HTML
+- Database Management: SQL, VBA
+- Tools: Git, Jupyter, Google Colab
 
 ## Experience
 - M3ssag1n8: Created a messaging website that could be used by multiple users at once
